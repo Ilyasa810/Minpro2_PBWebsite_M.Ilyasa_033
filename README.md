@@ -89,7 +89,7 @@ Atau bisa juga beberapa tampilan halaman:
 
 
 ```
-![Home Page](
+![Home Page]( 
 ![About Page](assets/images/about.png)
 ```
 
