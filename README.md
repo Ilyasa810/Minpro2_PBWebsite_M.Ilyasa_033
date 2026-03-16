@@ -77,21 +77,7 @@ Minpro2_PBWebsite_M.Ilyasa_033
 
 ## 🖥 Preview Website
 
-Tambahkan screenshot tampilan website di sini.
-
-Contoh penggunaan gambar:
-
-```
-![Preview Website](assets/images/preview.png)
-```
-
-Atau bisa juga beberapa tampilan halaman:
-
-
-```
-![Home Page]( 
-![About Page](assets/images/about.png)
-```
+Terlampir di repository
 
 ---
 
