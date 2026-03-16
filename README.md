@@ -88,7 +88,7 @@ Contoh penggunaan gambar:
 Atau bisa juga beberapa tampilan halaman:
 
 ```
-![Home Page](assets/images/home.png)
+![Home Page]()
 ![About Page](assets/images/about.png)
 ```
 
